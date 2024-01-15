@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = martinchenu74@hotmail.com
+	name = martin chenu
